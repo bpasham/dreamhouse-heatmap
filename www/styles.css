@@ -1,0 +1,24 @@
+.map {
+    width:100%;
+    height: 300px;
+}
+
+.new-view {
+    background-color: #8B85F9;
+}
+
+.new-favorite {
+    background-color: #53B6D7;
+}
+
+.new-appointment {
+    background-color: #E260AB;
+}
+
+.right {
+    text-align: right;
+}
+
+.event-col {
+    width: 140px;
+}
